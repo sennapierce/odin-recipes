@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+The project is to create a website of various recipes. At the end of this project, I will have demonstrated that I can create the basic structure of a website, linking pages to each other, using lists, etc. from the HTML lesson.
